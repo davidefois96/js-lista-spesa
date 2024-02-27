@@ -1,7 +1,7 @@
 
 const list = [];
 
-const numProduct = parseInt(prompt('Quanti prodotti vuoi acquistare?'));
+const numProduct = parseInt(prompt('Inserisci numericamente quanti prodotti acquistare?'));
 
 ol = document.querySelector('ol');
 
